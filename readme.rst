@@ -29,7 +29,7 @@ Solve the test task by writing a program in one of these programming languages::
 Solution
 ========
 
-Python script (you can set it as executable and place it to your PATH).
+Python script: **sync_periodical.py** (you can set it as executable and place it to your PATH).
 
 Tested on linux, python version 3.12.4
 
